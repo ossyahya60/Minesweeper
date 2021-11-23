@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\minigames\minesweeperenhanced-edition\minesweeper\minesweeper\main.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\minigames\minesweeperenhanced-edition\minesweeper\minesweeper\main.cpp(28): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\minigames\minesweeperenhanced-edition\minesweeper\minesweeper\main.cpp(29): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MineSweeper.vcxproj -> C:\MiniGames\MineSweeperEnhanced-Edition\MineSweeper\Debug\MineSweeper.exe
